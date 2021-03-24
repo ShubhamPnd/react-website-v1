@@ -56,7 +56,7 @@ function Navbar() {
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
-                Products
+                <i class="fab fa-product-hunt"></i> Products
               </Link>
             </li>
 
